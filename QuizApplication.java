@@ -1,6 +1,6 @@
 package codSoft;
 import java.util.*;
-public class TaskOne{
+public class QuizApplication{
     static int roundCounter = 0;
     static int totalNamingTrials = 0;
     static Scanner console = new Scanner(System.in);//create scanner object
